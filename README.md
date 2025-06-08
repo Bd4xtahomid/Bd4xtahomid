@@ -1,4 +1,4 @@
-# Hi there, I'm Bd4xtahomid! 👋
+# Hi there, I'm Tahomid! 👋
 
 Welcome to my GitHub profile! I'm a passionate JavaScript developer with a focus on creating innovative Discord bots. Here you'll find some of my projects and contributions.
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate JavaScript developer with a focus
 - 👯 I’m looking to collaborate on open-source projects related to web development and Discord bot development.
 - 🤔 I’m looking for help with improving my skills in cloud computing and server management.
 - 💬 Ask me about JavaScript, Node.js, and Discord.js.
-- 📫 How to reach me: bd4xtahomid@example.com
+- 📫 How to reach me: Tahomid095@protonmail.com
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
 ## 💻 Technologies & Tools
@@ -26,22 +26,12 @@ Welcome to my GitHub profile! I'm a passionate JavaScript developer with a focus
 
 ![Bd4xtahomid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bd4xtahomid&show_icons=true&theme=dark)
 
-## 📦 Projects
-
-### Project 1: [Awesome Discord Bot](https://github.com/Bd4xtahomid/awesome-discord-bot)
-A powerful and customizable Discord bot built with Discord.js.
-
-### Project 2: [Cool Utility Tool](https://github.com/Bd4xtahomid/cool-utility-tool)
-A handy utility tool for developers to streamline their workflow.
-
-### Project 3: [Another Interesting Project](https://github.com/Bd4xtahomid/another-interesting-project)
-An innovative project exploring new technologies and ideas.
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- Email: bd4xtahomid@example.com
+- LinkedIn: [N/A](https://linkedin.com/in/yourprofile)
+- Twitter: [@Tahomidop](https://twitter.com/Tahomidop)
+- Email: Tahomid095@protonmail.com
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
